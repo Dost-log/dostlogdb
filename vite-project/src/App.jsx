@@ -1,9 +1,9 @@
 import './App.css'
-
+import Contain from './Container/Contain/Contain';
 function App() {
   return (
     <div className="App">
-      Dostlogdb project begins
+      <Contain/>
     </div>
   )
 }
